@@ -1,8 +1,5 @@
 
-# دوره رایگان PyTorch
-
-به ریپازیتوری دوره رایگان پایتورچ هوسم خوش آمدید! این دوره به شما کمک کند، مبانی فریمورک محبوب یادگیری عمیق پایتورچ را به سادگی بیاموزید. مطالب این دوره به‌صورت جلسات هفتگی کوتاه ارائه شده است.
-این دوره توسط [آکادمی هوش مصنوعی هوسم](https://howsam.org) تهیه شده است و می‌توانید ویدیوهای آموزشی آن را از [اینجا](https://howsam.org/downloads/pytorch-course/) ببینید.
+# دوره PyTorch
 
 ## فهرست مطالب دوره
 
@@ -38,17 +35,11 @@
 - پیاده‌سازی یک طبقه‌بند چندکلاسه
 - ارزیابی عملکرد طبقه‌بندی چندکلاسه
 
-### ادامه خواهد داشت
- با ما همراه باشید. این کورس ادامه دارد. :)
-
 ---
 
 
-# PyTorch Free Course
+# PyTorch Course
 
-Welcome to the PyTorch Free Course repository! This course is designed to help you learn the basics of PyTorch, a popular deep learning framework, through a series of weekly lessons. Each week, we will cover a new topic, starting from basic tensor operations to more advanced machine learning models.
-
-This course is produced by [Howsam AI Academy](https://howsam.org), and you can find accompanying video lectures [here](https://howsam.org/downloads/pytorch-course/).
 
 ## Course Outline
 
@@ -84,6 +75,3 @@ Our final week (for now) will cover multiclass classification. This includes:
 - Extending logistic regression to multiclass problems
 - Implementing a multiclass classifier
 - Evaluating multiclass classification performance
-
-## To Be Continued
-Stay tuned for more weeks as we continue to build on the concepts learned and explore more advanced topics in PyTorch and deep learning.
